@@ -64,6 +64,15 @@ nav img {
 }
 
 .text-box {
+    width: 90%;
+    color: #ffffff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+
     
 }
 
+.text-box h1
